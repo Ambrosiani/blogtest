@@ -8,7 +8,10 @@ Presentations at museum conferences
 
 # 2017
 
-* Upcoming: [Open Source Reality Check](https://conference.mcn.edu/profile.cfm?profile_name=session&master_key=51947569-0816-D127-AB51-23ABF63F3198&page_key=&xtemplate&userLGNKEY=0). Case presentation at MCN in Pittsburgh, November 2017. In English.
+* [Open Source Reality Check](https://conference.mcn.edu/profile.cfm?profile_name=session&master_key=51947569-0816-D127-AB51-23ABF63F3198&page_key=&xtemplate&userLGNKEY=0). Case presentation at MCN in Pittsburgh, November 2017. In English.
+
+* [An MCN Lab on Museum Labs](http://conference.mcn.edu/2017/profile.cfm?profile_name=session&master_key=518ED9E1-BA3C-E5CF-BAF0-9E8A7E93C9CE&page_key=0244AE70-CFED-1DEC-42AB-9041A6F4885D&xtemplate&userLGNKEY=0). Professional Session at MCN in Pittsburgh, November 2017. In English.
+
 
 * Att skriva om kulturhistoria på Wikipedia som gymnasiearbete. Presentation at Museernas vårmöte in Södertälje, April 2017. In Swedish.
 

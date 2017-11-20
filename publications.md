@@ -6,6 +6,10 @@ permalink: /publications/
 
 Published papers, reviews and blog posts on other sites.
 
+# 2017
+
+* Att skriva kulturhistoria: ett skolprojekt om Wikipedia. Artikel i [Fataburen 2017](http://libris.kb.se/bib/21904612). In Swedish
+
 # 2015
 
 * [På besök i framtiden](http://ueforum.se/litteratur/15-3litt1ru-bok.php). Recension av antologin *Museerna och besökarna 2050*. Utställningsestetiskt Forum. In Swedish
