@@ -25,6 +25,10 @@ And then execute:
 
 ## Usage
 
+```
+JEKYLL_ENV=PRODUCTION sudo bundle exec jekyll build
+```
+
 ### Customization
 
 To override the default structure and style of minima, simply create the concerned directory at the root of your site, copy the file you wish to customize to that directory, and then edit the file.
