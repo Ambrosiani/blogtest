@@ -4,14 +4,14 @@ layout: default
 
 <div class="home">
 
-<p>I am a digital media producer at <a href="http://www.nordiskamuseet.se/en">Nordiska museet</a> in Stockholm, Sweden. Here you'll find blog posts on digital media in museums as well as more personal posts.</p>
+<p>I’m a digital media producer at the <a href="http://www.nordiskamuseet.se/en">Nordic Museum</a> in Stockholm, Sweden. Here you'll find blog posts on digital media in museums as well as more personal posts.</p>
 
   <h1 class="page-heading">Posts</h1>
   
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -22,4 +22,20 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
+  <div class="pagination">
+  <p class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
+  <p>
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</p>
+</div>
 </div>
