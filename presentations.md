@@ -4,7 +4,11 @@ title: Presentations
 permalink: /presentations/
 ---
 
-Presentations at museum conferences
+Presentations at museum conferences and seminars
+
+# 2018
+
+* (upcoming) [Samlinger på nett. Webteknologiske strategier](http://nasjonalmuseet.no/no/utstillinger_og_aktiviteter/arrangementer/nasjonalgalleriet/Seminar%232V2018%3A+Samlinger+på+nett.+Webteknologiske+strategier.b7C_wJHS3e.ips), April 2018
 
 # 2017
 
