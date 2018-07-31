@@ -8,7 +8,9 @@ Presentations at museum conferences and seminars
 
 # 2018
 
-* [Samlinger på nett. Webteknologiske strategier](http://nasjonalmuseet.no/no/utstillinger_og_aktiviteter/arrangementer/nasjonalgalleriet/Seminar%232V2018%3A+Samlinger+på+nett.+Webteknologiske+strategier.b7C_wJHS3e.ips), April 2018
+* Upcoming: [Generous Interfaces Evaluated](http://www.museumscomputergroup.org.uk/events/museumstech2018/). Lightning talk at Museums+Tech in London, October 2018. In English.
+
+* [Nordiska museet på Wikimedia Commons och andra digitala kanaler](http://nasjonalmuseet.no/no/utstillinger_og_aktiviteter/arrangementer/nasjonalgalleriet/Seminar%232V2018%3A+Samlinger+på+nett.+Webteknologiske+strategier.b7C_wJHS3e.ips). Presentation at the seminar *Samlinger på nett. Webteknologiske strategier, April 2018*, April 2018. In Swedish.
 
 # 2017
 
