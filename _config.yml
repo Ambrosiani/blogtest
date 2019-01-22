@@ -36,7 +36,7 @@ paginate_path: "/:num/"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
   - jekyll-paginate
