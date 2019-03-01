@@ -26,7 +26,7 @@ And then execute:
 ## Usage
 
 ```
-JEKYLL_ENV=PRODUCTION sudo bundle exec jekyll build
+JEKYLL_ENV=production bundle exec jekyll build
 ```
 
 ### Customization
