@@ -8,14 +8,13 @@ Presentations at museum conferences and seminars
 
 # 2019
 
+* Wikimedia Commons-uppladdningar. Workshop at [Digikult](http://www.digikult.se/) in Gothenburg, April 2019. 🇸🇪 In Swedish.
+
+* Vems historia berättas? Presentation at Museernas vårmöte in Östersund, April 2019. 🇸🇪 In Swedish.
+
+* [Hands on with RFID](https://mw19.mwconf.org/proposal/hands-on-with-rfid/). Workshop at Museums and the Web in Boston, April 2019. 🇺🇸 In English.
+
 * [Det finns inga digitala utställningar + Medskapande på Wikipedia](https://sites.google.com/view/museinatverkvasternorrland/startsida). Presentations at the seminar *Digitala verktyg, metoder och tänkesätt i museisektorn 2019* in Härnösand, January 2019. 🇸🇪 In Swedish.
-
-* (upcoming) [Hands on with RFID](https://mw19.mwconf.org/proposal/hands-on-with-rfid/). Workshop at Museums and the Web in Boston, April 2019. 🇺🇸 In English.
-
-* (upcoming) Vems historia berättas? Presentation at Museernas vårmöte in Östersund, April 2019. 🇸🇪 In Swedish.
-
-* (upcoming) Wikimedia Commons-uppladdningar. Workshop at [Digikult](http://www.digikult.se/) in Gothenburg, April 2019. 🇸🇪 In Swedish.
-
 
 # 2018
 
