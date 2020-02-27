@@ -32,4 +32,10 @@ Fristående kurser på avancerad nivå i Historia, 30 credits, [Stockholm Univer
 2007–2010
 Bachelor’s Degree in History, 180 credits, Stockholm University
 
+# Board Positions
+
+2012– [UtställningsEstetiskt Forum](https://utstallningskritik.se)
+
+2013–2015 [IdeK](https://www.idek.se)
+
 *Detailed CV available on request.*

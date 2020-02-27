@@ -8,6 +8,12 @@ Presentations at museum conferences and seminars
 
 # 2019
 
+* [Creative reuse on Wikimedia platforms](https://www.youtube.com/watch?v=mE_VViu1bUA&list=PLKrB8_QR_fyGsi_4LVaEoKI-w-2QiAJ1V). Webinar in the series ”Open GLAM now”, November 2019. 🇺🇸 In English.
+
+* Kulturarvsinstitutioner och Wikipedia – vad, varför och hur? Workshop for Museinätverk Västernorrland in Härnösand, October 2019. 🇸🇪 In Swedish.
+
+* Varför digitalisering? Presentation at [Alla tiders Västerbotten](http://allatidersvasterbotten.se)’s stormöte in Lycksele, September 2019. 🇸🇪 In Swedish.
+
 * Wikimedia Commons-uppladdningar. Workshop at [Digikult](http://www.digikult.se/) in Gothenburg, April 2019. 🇸🇪 In Swedish.
 
 * Vems historia berättas? Presentation at Museernas vårmöte in Östersund, April 2019. 🇸🇪 In Swedish.

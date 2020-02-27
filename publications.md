@@ -8,7 +8,7 @@ Published papers, reviews and blog posts on other sites.
 
 # 2017
 
-* Att skriva kulturhistoria: ett skolprojekt om Wikipedia. Artikel i [Fataburen 2017](http://libris.kb.se/bib/21904612). In Swedish
+* [Att skriva kulturhistoria: ett skolprojekt om Wikipedia](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040). Artikel i Fataburen 2017. In Swedish
 
 # 2015
 
@@ -32,4 +32,4 @@ Published papers, reviews and blog posts on other sites.
 
 # 2009
 
-* [Rektor Lennmalms förslag: om 1918–1921 års diskussioner kring ett Nobelinstitut i rasbiologi vid Karolinska institutet](http://www.nobelmuseum.se/sites/nobelmuseet.se/files/page_file/NMOP7.pdf). Kandidatuppsats i historia vid Stockholms universitet publicerad i serien [Nobel Museum Occasional Papers](http://www.nobelmuseum.se/sv/forskning/publikationer). In Swedish
+* [Rektor Lennmalms förslag: om 1918–1921 års diskussioner kring ett Nobelinstitut i rasbiologi vid Karolinska institutet](../assets/Rektor_Lennmalms_forslag.pdf). Kandidatuppsats i historia vid Stockholms universitet publicerad i serien [Nobel Museum Occasional Papers](http://www.nobelmuseum.se/sv/forskning/publikationer). In Swedish
