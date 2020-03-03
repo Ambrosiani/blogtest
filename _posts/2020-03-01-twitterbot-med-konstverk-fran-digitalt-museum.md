@@ -23,15 +23,15 @@ Sajten [🎏 Glitch](http://glitch.com) är en blandning av kodbibliotek och web
 Jag har remixat ett ["starter kit" för twitterbotar](https://glitch.com/~twitterbot) och gjort några anpassningar, så det är bättre att utgå från den färdiga boten [Fritz von Dardel](https://glitch.com/~fritzvondardel). Följ länken, leta rätt på ”remix”-knappen och klistra sedan in dina twitterappuppgifter i filen som heter **.env** (se guiden ”How to create a Twitter app” ovan).
 
 ## 3. Hämta data från Digitalt museum
-*Den här delen av guiden kommer att uppdateras när jag hunnit få lite återkoppling från KulturIT.*
+*Uppdaterad 3 mars 2020, tack [Ulf Bodin](https://twitter.com/ulfbodin)* 
 
 Istället för att anropa Digitalt museum varje gång boten ska twittra har jag laddat hem data med hjälp av Digitalt museums API. Det innebär att eventuella ändringar i samlingsposterna inte slår igenom förrän jag upprepar API-anropet.
 
-Jag har använt följande anrop: `http://api.dimu.org/api/solr/select?q=*&fq=identifier.owner:S-NM&fq=artifact.type:Photograph&fq=artifact.producer:Dardel&wt=json&rows=100&api.key=demo`.
+Jag har använt följande anrop: `http://api.dimu.org/api/solr/select?q=*&fq=identifier.owner:S-NM&fq=artifact.type:Photograph&fq=related_person_relations_uss:39c5797c-9b3a-4059-bc2c-5b1e2cd8b487&wt=json&rows=100&fl=artifact.uniqueId,artifact.ingress.title,artifact.defaultMediaIdentifier&api.key=demo`.
 
-Anropet frågar efter fotografier i Nordiska museets samlingar där fältet `artifact.producer` innehåller ”Dardel”. Detta kommer att bytas ut mot ett anrop med Kulturanv-UUID när jag vet hur man gör!
+Anropet frågar efter fotografier i Nordiska museets samlingar där fältet `related_person_relations_uss` är [39c5797c-9b3a-4059-bc2c-5b1e2cd8b487](https://digitaltmuseum.se/021036373974/dardel-fritz-von-1817-1901). Det är ett så kallat ”UUID”, en unik identifierare som i det här fallet motsvarar konstnären Fritz von Dardel. Identifieraren kommer till Digitalt museum från [Nationalmuseums konstnärslista på KulturNav](https://kulturnav.org/c6efd155-8433-4c58-adc9-72db80c6ce50).
 
-Får att få fler än 10 svar tillbaka behöver du en egen API-nyckel till Digitalt museum (istället för ”demo” sist i anropet). Kontakta KulturIT för att få en nyckel.
+Får att få fler än 10 svar tillbaka behöver du en egen API-nyckel till Digitalt museum (istället för ”demo” sist i anropet). [Kontakta KulturIT](mailto:support@kulturit.no) för att få en nyckel.
 
 Den data jag fick tillbaka har jag sparat i filen `data.json` (och plockat bort min API-nyckel).
 
