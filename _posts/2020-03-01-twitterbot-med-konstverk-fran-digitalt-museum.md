@@ -44,6 +44,8 @@ För att hämta bildfilerna har jag…
 
 Nu är data, bildfiler och kod på plats och du kan börja twittra!
 
+Varje Glitchapp får tillgång till 200 MB lagringsutrymme vilket motsvarar ungefär 500 bilder i den upplösning (max 800×800 pixlar) jag valt.
+
 ## 4. Ställ in ett cronjob
 På sajten [Cron-job.org](https://cron-job.org/en/) har jag ställt in ett cronjob som körs en gång om dagen och anropar den endpoint som anges i glitchappens .env-fil, dvs https://fritzvondardel.glitch.me/ENDPOINT (där du byter ut sista delen mot din egen endpoint). Appen har ingen autentisering så om någon annan listar ut din endpoint kan de twittra för fulla muggar!
 

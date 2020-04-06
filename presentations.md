@@ -6,9 +6,13 @@ permalink: /presentations/
 
 Presentations at museum conferences and seminars
 
+# 2020
+
+* [K-samtal om museers samtidsdokumentation i kristider](https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/k-samtal/samtidsdokumentation-av-coronakrisen/?utm_campaign=unspecified&utm_content=unspecified&utm_medium=email&utm_source=apsis-anp-3). Webinar i serien K-samtal (Riksantikvarieämbetet), April 2020. 🇸🇪 In Swedish.
+
 # 2019
 
-* [Creative reuse on Wikimedia platforms](https://www.youtube.com/watch?v=mE_VViu1bUA&list=PLKrB8_QR_fyGsi_4LVaEoKI-w-2QiAJ1V). Webinar in the series ”Open GLAM now”, November 2019. 🇺🇸 In English.
+* [Creative reuse on Wikimedia platforms](https://www.youtube.com/watch?v=mE_VViu1bUA&list=PLKrB8_QR_fyGsi_4LVaEoKI-w-2QiAJ1V). Webinar in the series ”Open GLAM now” (Riksantikvarieämbetet), November 2019. 🇺🇸 In English.
 
 * Kulturarvsinstitutioner och Wikipedia – vad, varför och hur? Workshop for Museinätverk Västernorrland in Härnösand, October 2019. 🇸🇪 In Swedish.
 
