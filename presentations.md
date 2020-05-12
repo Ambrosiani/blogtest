@@ -10,6 +10,8 @@ Presentations at museum conferences and seminars
 
 * Upcoming, May 15: [Öppet kulturarv – nätverksträff om öppna data](http://www.digisam.se/oppet-kulturarv-natverkstraff-om-oppna-data/) 🇸🇪 In Swedish.
 
+* Att skriva om kulturhistoria på Wikipedia som gymnasiearbete. Webinar inom Riksantikvarieämbetets skoluppdrag, May 2020. 🇸🇪 In Swedish.
+
 * [K-samtal om museers samtidsdokumentation i kristider](https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/k-samtal/samtidsdokumentation-av-coronakrisen/). Webinar i serien K-samtal (Riksantikvarieämbetet), April 2020. 🇸🇪 In Swedish. [Rapport från seminariet](https://www.raa.se/omvarld-och-insikt/samtidsdokumentation-i-kristider/)
 
 # 2019
