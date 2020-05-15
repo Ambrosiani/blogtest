@@ -8,7 +8,7 @@ Presentations at museum conferences and seminars
 
 # 2020
 
-* Upcoming, May 15: [Öppet kulturarv – nätverksträff om öppna data](http://www.digisam.se/oppet-kulturarv-natverkstraff-om-oppna-data/) 🇸🇪 In Swedish.
+* [Öppet kulturarv – nätverksträff om öppna data](http://www.digisam.se/oppet-kulturarv-natverkstraff-om-oppna-data/), May 2020. 🇸🇪 In Swedish.
 
 * Att skriva om kulturhistoria på Wikipedia som gymnasiearbete. Webinar inom Riksantikvarieämbetets skoluppdrag, May 2020. 🇸🇪 In Swedish.
 
