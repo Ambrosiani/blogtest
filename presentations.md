@@ -8,11 +8,13 @@ Presentations at museum conferences and seminars
 
 # 2020
 
+* Upcoming: [Hållbarhet och långsiktiga effekter i den digitala transformationen](https://www.raa.se/evenemang-och-upplevelser/kalenderhandelser/digitalt-museimote/). Panel at Digitalt museimöte, September 2020. 🇸🇪🇺🇸 In Swedish and English.
+
 * [Öppet kulturarv – nätverksträff om öppna data](http://www.digisam.se/oppet-kulturarv-natverkstraff-om-oppna-data/), May 2020. 🇸🇪 In Swedish.
 
-* Att skriva om kulturhistoria på Wikipedia som gymnasiearbete. Webinar inom Riksantikvarieämbetets skoluppdrag, May 2020. 🇸🇪 In Swedish.
+* Att skriva om kulturhistoria på Wikipedia som gymnasiearbete. Webinar for Riksantikvarieämbetets skoluppdrag, May 2020. 🇸🇪 In Swedish.
 
-* [K-samtal om museers samtidsdokumentation i kristider](https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/k-samtal/samtidsdokumentation-av-coronakrisen/). Webinar i serien K-samtal (Riksantikvarieämbetet), April 2020. 🇸🇪 In Swedish. [Rapport från seminariet](https://www.raa.se/omvarld-och-insikt/samtidsdokumentation-i-kristider/)
+* [K-samtal om museers samtidsdokumentation i kristider](https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/k-samtal/samtidsdokumentation-av-coronakrisen/). Webinar in the series K-samtal (Riksantikvarieämbetet), April 2020. 🇸🇪 In Swedish. [Rapport från seminariet](https://www.raa.se/omvarld-och-insikt/samtidsdokumentation-i-kristider/)
 
 # 2019
 
