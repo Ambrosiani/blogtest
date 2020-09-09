@@ -8,7 +8,7 @@ Presentations at museum conferences and seminars
 
 # 2020
 
-* Upcoming: [Hållbarhet och långsiktiga effekter i den digitala transformationen](https://www.raa.se/evenemang-och-upplevelser/kalenderhandelser/digitalt-museimote/). Panel at Digitalt museimöte, September 2020. 🇸🇪🇺🇸 In Swedish and English.
+* [Hållbarhet och långsiktiga effekter i den digitala transformationen](https://www.raa.se/evenemang-och-upplevelser/kalenderhandelser/digitalt-museimote/). Panel at Digitalt museimöte, September 2020. 🇸🇪🇺🇸 In Swedish and English.
 
 * [Öppet kulturarv – nätverksträff om öppna data](http://www.digisam.se/oppet-kulturarv-natverkstraff-om-oppna-data/), May 2020. 🇸🇪 In Swedish.
 
