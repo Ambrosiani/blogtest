@@ -6,6 +6,10 @@ permalink: /publications/
 
 Published papers, reviews and blog posts on other sites.
 
+# 2020
+
+* [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](../assets/Hemmafruarna_och_hogskolan.pdf). Magisteruppsats/Master’s (1 year) Thesis in History. In Swedish
+
 # 2017
 
 * [Att skriva kulturhistoria: ett skolprojekt om Wikipedia](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040). Artikel i Fataburen 2017. In Swedish
@@ -32,4 +36,4 @@ Published papers, reviews and blog posts on other sites.
 
 # 2009
 
-* [Rektor Lennmalms förslag: om 1918–1921 års diskussioner kring ett Nobelinstitut i rasbiologi vid Karolinska institutet](../assets/Rektor_Lennmalms_forslag.pdf). Kandidatuppsats i historia vid Stockholms universitet publicerad i serien [Nobel Museum Occasional Papers](http://www.nobelmuseum.se/sv/forskning/publikationer). In Swedish
+* [Rektor Lennmalms förslag: om 1918–1921 års diskussioner kring ett Nobelinstitut i rasbiologi vid Karolinska institutet](../assets/Rektor_Lennmalms_forslag.pdf). Kandidatuppsats i historia vid Stockholms universitet publicerad i serien [Nobel Museum Occasional Papers](http://www.nobelmuseum.se/sv/forskning/publikationer). Bachelor’s Thesis in History. In Swedish
