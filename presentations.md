@@ -8,7 +8,7 @@ Presentations at museum conferences and seminars
 
 # 2020
 
-* Upcoming: [Samtidsdokumentation inför öppen ridå – lärdomar från direktpublicerade insamlingar på Minnen.se](https://www.facebook.com/groups/DOSSNET/permalink/3851529521547380/), 4 December 2020. 🇸🇪 In Swedish.
+* [Samtidsdokumentation inför öppen ridå – lärdomar från direktpublicerade insamlingar på Minnen.se](https://www.facebook.com/groups/DOSSNET/permalink/3851529521547380/), December 2020. 🇸🇪 In Swedish.
 
 * [Hållbarhet och långsiktiga effekter i den digitala transformationen](https://www.raa.se/evenemang-och-upplevelser/kalenderhandelser/digitalt-museimote/). Panel at Digitalt museimöte, September 2020. 🇸🇪🇺🇸 In Swedish and English.
 
