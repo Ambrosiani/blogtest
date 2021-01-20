@@ -6,9 +6,13 @@ permalink: /presentations/
 
 Presentations at museum conferences and seminars
 
+# 2021
+
+* [Crowdsourced Digital Born Collections Panel](https://www.museumnext.com/events/digital-museum-summit/schedule/). Panel at MuseumNext Digital Summit, February 2021. 🇺🇸 In English.
+
 # 2020
 
-* [Samtidsdokumentation inför öppen ridå – lärdomar från direktpublicerade insamlingar på Minnen.se](https://www.facebook.com/groups/DOSSNET/permalink/3851529521547380/), December 2020. 🇸🇪 In Swedish.
+* [Samtidsdokumentation inför öppen ridå – lärdomar från direktpublicerade insamlingar på Minnen.se](https://www.facebook.com/groups/DOSSNET/permalink/3851529521547380/). Presentation at DOSS höstmöte, December 2020. 🇸🇪 In Swedish.
 
 * [Hållbarhet och långsiktiga effekter i den digitala transformationen](https://www.raa.se/evenemang-och-upplevelser/kalenderhandelser/digitalt-museimote/). Panel at Digitalt museimöte, September 2020. 🇸🇪🇺🇸 In Swedish and English.
 
