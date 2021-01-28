@@ -8,11 +8,11 @@ Published papers, reviews and blog posts on other sites.
 
 # 2020
 
-* [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](../assets/Hemmafruarna_och_hogskolan.pdf). Magisteruppsats/Master’s (1 year) Thesis in History. In Swedish
+* [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](../assets/Hemmafruarna_och_hogskolan.pdf). Magisteruppsats/Master’s (1 year) Thesis in History. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-188765). In Swedish
 
 # 2017
 
-* [Att skriva kulturhistoria: ett skolprojekt om Wikipedia](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040). Artikel i Fataburen 2017. In Swedish
+* [Att skriva kulturhistoria: ett skolprojekt om Wikipedia](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040). Artikel i Fataburen 2017. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040) In Swedish
 
 # 2015
 
