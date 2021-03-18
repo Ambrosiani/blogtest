@@ -8,6 +8,8 @@ Presentations at museum conferences and seminars
 
 # 2021
 
+* Upcoming: [Beyond the Collecting Social Photo project – Implementing practices and digital tools for collecting social digital photography into four Nordic museums and archives](https://mw21.museweb.net/proposal/beyond-the-collecting-social-photo-project-implementing-practices-and-digital-tools-for-collecting-social-digital-photography-into-four-nordic-museums-and-archives/). Panel at Museums and the Web, April 2021. 🇺🇸 In English.
+
 * [Crowdsourced Digital Born Collections Panel](https://www.museumnext.com/events/digital-museum-summit/schedule/). Panel at MuseumNext Digital Summit, February 2021. 🇺🇸 In English.
 
 # 2020
