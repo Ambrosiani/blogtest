@@ -8,6 +8,8 @@ Published papers, reviews and blog posts on other sites.
 
 # 2021
 
+* [Vem gör de bästa digitala utställningarna?](https://www.raa.se/omvarld-och-insikt/vem-gor-de-basta-digitala-utstallningarna/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. April 2021. 🇸🇪 In Swedish
+
 * [Ett år av coronadokumentation](https://www.raa.se/omvarld-och-insikt/kronika-ett-ar-av-coronadokumentation/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Mars 2021. 🇸🇪 In Swedish
 
 # 2020
