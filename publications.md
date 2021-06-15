@@ -8,6 +8,10 @@ Published papers, reviews and blog posts on other sites.
 
 # 2021
 
+* [Utställningskritik #3 2021](https://utstallningskritik.se/2021-3/utstallningskritik-3-2021-det-digitala-numret/). Medredaktör för digitalt temanummer av Utställningskritik. Juni 2021. 🇸🇪 In Swedish
+
+* [Lång väg till ett digitaliserat kulturarv](https://www.raa.se/omvarld-och-insikt/lang-vag-till-ett-digitaliserat-kulturarv/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Juni 2021. 🇸🇪 In Swedish
+
 * [”Wikipedia en oöverträffad kanal för museets samlingar”](https://www.raa.se/omvarld-och-insikt/wikipedia-en-oovertraffad-kanal-for-museets-samlingar/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Maj 2021. 🇸🇪 In Swedish
 
 * [Vem gör de bästa digitala utställningarna?](https://www.raa.se/omvarld-och-insikt/vem-gor-de-basta-digitala-utstallningarna/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. April 2021. 🇸🇪 In Swedish
