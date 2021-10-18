@@ -8,6 +8,8 @@ Published papers, reviews and blog posts on other sites.
 
 # 2021
 
+* [I startgroparna för massdigitisering](https://www.raa.se/omvarld-och-insikt/i-startgroparna-for-massdigitisering/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Oktober 2021. 🇸🇪 In Swedish
+
 * [Utställningskritik #3 2021](https://utstallningskritik.se/2021-3/utstallningskritik-3-2021-det-digitala-numret/). Medredaktör för digitalt temanummer av Utställningskritik. Juni 2021. 🇸🇪 In Swedish
 
 * [Lång väg till ett digitaliserat kulturarv](https://www.raa.se/omvarld-och-insikt/lang-vag-till-ett-digitaliserat-kulturarv/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Juni 2021. 🇸🇪 In Swedish
