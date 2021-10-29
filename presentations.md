@@ -8,6 +8,8 @@ Presentations at museum conferences and seminars
 
 # 2021
 
+* Upcoming: [Öppet kulturarv – nätverksträff om öppna data](https://www.digisam.se/oppet-kulturarv-natverkstraff-om-oppna-data/), Nov 2021. 🇸🇪 In Swedish.
+
 * [Vad krävs för att museerna ska digitalisera kulturarvet?](https://www.almedalsveckanplay.info/62052) Panel at Almedalsveckan, July 2021. 🇸🇪 In Swedish.
 
 * [Beyond the Collecting Social Photo project – Implementing practices and digital tools for collecting social digital photography into four Nordic museums and archives](https://mw21.museweb.net/proposal/beyond-the-collecting-social-photo-project-implementing-practices-and-digital-tools-for-collecting-social-digital-photography-into-four-nordic-museums-and-archives/). Panel at Museums and the Web, April 2021. 🇺🇸 In English.
