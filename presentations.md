@@ -8,6 +8,8 @@ Presentations at museum conferences and seminars
 
 # 2021
 
+* (Upcoming) Kulturhistoria som gymnasiearbete, Dec 2021. Panel at Wikipediadagen. 🇸🇪 In Swedish.
+
 * [Öppet kulturarv – nätverksträff om öppna data](https://www.digisam.se/oppet-kulturarv-natverkstraff-om-oppna-data/), Nov 2021. 🇸🇪 In Swedish.
 
 * [Vad krävs för att museerna ska digitalisera kulturarvet?](https://www.almedalsveckanplay.info/62052) Panel at Almedalsveckan, July 2021. 🇸🇪 In Swedish.
