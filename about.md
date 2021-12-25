@@ -6,7 +6,7 @@ permalink: /about-me/
 
 Since 2014, I’m a digital media producer at [Nordiska museet](http://www.nordiskamuseet.se/en) in Stockholm, Sweden. In my work I'm involved in multiple projects at the museum; both web-based projects and on-site digital interactives.
 
-I'm a board member of [ICOM Sweden](http://icomsweden.se), the Swedish National ICOM Committee (since 2020) as well as [UtställningsEstetiskt Forum](https://utstallningskritik.se) (since 2012).
+I'm the editor in chief of [Utställningskritik](https://utstallningskritik.se), beginning in 2022.
 
 Between 2003 and 2014, I worked in various positions at the [Nobel Museum](http://www.nobelmuseum.se/en) (also in Stockholm), mainly with exhibitions and digital media. In 2011–2012, I had a temporary position as web project manager at the [National Maritime Museums in Sweden](http://www.maritima.se/en/).
 
