@@ -24,7 +24,7 @@ Published papers, reviews and blog posts on other sites.
 
 # 2020
 
-* [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](../assets/Hemmafruarna_och_hogskolan.pdf). Magisteruppsats/Master’s (1 year) Thesis in History. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-188765). 🇸🇪 In Swedish
+* [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](http://su.diva-portal.org/smash/get/diva2:1516712/FULLTEXT01.pdf). Magisteruppsats/Master’s (1 year) Thesis in History. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-188765). 🇸🇪 In Swedish
 
 # 2017
 
