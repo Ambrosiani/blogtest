@@ -28,6 +28,9 @@ Museum Host (Museivärd), Nobel Museum, Stockholm (part-time)
 
 # Education
 
+2020–2021
+Courses in Digital Humanities, 22.5 credits, [Linnæus University](https://lnu.se/en/research/searchresearch/digital-humanities/)
+
 2011–2020
 Master’s Degree in History (1 year), 60 credits, [Stockholm University](http://www.historia.su.se/english/)
 
