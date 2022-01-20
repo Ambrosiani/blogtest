@@ -6,6 +6,10 @@ permalink: /publications/
 
 Published papers, reviews and blog posts on other sites.
 
+# 2022
+
+* [Dags för digitalt kompetenslyft](https://www.raa.se/omvarld-och-insikt/dags-for-digitalt-kompetenslyft/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. January 2022. 🇸🇪 In Swedish
+
 # 2021
 
 * [Tre kännetecken för ”det nya normala” museibesöket](https://www.raa.se/omvarld-och-insikt/tre-kannetecken-for-det-nya-normala-museibesoket/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. November 2021. 🇸🇪 In Swedish
