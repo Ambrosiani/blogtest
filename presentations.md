@@ -6,6 +6,10 @@ permalink: /presentations/
 
 Presentations at museum conferences and seminars
 
+# 2022
+
+* upcoming: [Om Nordiska museets bilduppladdningar och projektet Att skriva kulturhistoria på Wikipedia](https://folkochkultur.hypersay.events), Feb 2022. Panel at Folk och Kultur. 🇸🇪 In Swedish.
+
 # 2021
 
 * [Kulturhistoria som gymnasiearbete](https://www.youtube.com/watch?v=-ohZGjvqEn4), Dec 2021. Panel at Wikipediadagen. 🇸🇪 In Swedish.
