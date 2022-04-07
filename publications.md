@@ -8,6 +8,10 @@ Published papers, reviews and blog posts on other sites.
 
 # 2022
 
+* [Sociala medier står för den största förändringen](https://magasink.se/2022/04/sociala-medier-star-for-den-storsta-forandringen/). Krönika till Magasin K. April 2022. 🇸🇪 In Swedish
+
+* [Utställningskritik #1 2022](https://utstallningskritik.se/2022-1/utstallningskritik-1-2022/). Redaktör för Utställningskritik. Februari 2022. 🇸🇪 In Swedish
+
 * [Dags för digitalt kompetenslyft](https://www.raa.se/omvarld-och-insikt/dags-for-digitalt-kompetenslyft/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. January 2022. 🇸🇪 In Swedish
 
 # 2021

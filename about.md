@@ -4,9 +4,11 @@ title: About Me
 permalink: /about-me/
 ---
 
-Since 2014, I’m a digital media producer at [Nordiska museet](http://www.nordiskamuseet.se/en) in Stockholm, Sweden. In my work I'm involved in multiple projects at the museum; both web-based projects and on-site digital interactives.
+In May 2022 I begin a new position as curator of digital collections at [ArkDes](https://arkdes.se/en/).
 
-I'm the editor in chief of [Utställningskritik](https://utstallningskritik.se), beginning in 2022.
+From 2014 to 2002, I've worked as a digital media producer at [Nordiska museet](http://www.nordiskamuseet.se/en) in Stockholm, Sweden. In this position I've been involved in multiple projects at the museum; both web-based projects and on-site digital interactives.
+
+I'm the current editor in chief of [Utställningskritik](https://utstallningskritik.se) (since 2022).
 
 Between 2003 and 2014, I worked in various positions at the [Nobel Museum](http://www.nobelmuseum.se/en) (also in Stockholm), mainly with exhibitions and digital media. In 2011–2012, I had a temporary position as web project manager at the [National Maritime Museums in Sweden](http://www.maritima.se/en/).
 
