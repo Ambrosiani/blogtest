@@ -6,12 +6,12 @@ permalink: /curriculum-vitae/
 
 # Professional Experience
 
-2022– Curator of Digital Collections, [ArkDes](https://arkdes.se/en/), Stockholm
+2022– Curator of Digital Collections (Intendent för digitala samlingar), [ArkDes](https://arkdes.se), Stockholm
 
 2022– Editor in chief of [Utställningskritik](https://www.utstallningskritik.se/) (part-time)
 
 2014–2022
-Digital Media Producer (Producent digitala medier), [Nordiska museet](http://www.nordiskamuseet.se/en/), Stockholm
+Digital Media Producer (Producent digitala medier), [Nordiska museet](http://www.nordiskamuseet.se/), Stockholm
 
 2011–2012 (temporary position)
 Web Project Manager (Projektledare Webb), [National Maritime Museums](http://www.maritima.se/en/), Stockholm/Karlskrona
