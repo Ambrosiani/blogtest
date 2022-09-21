@@ -28,6 +28,8 @@ Published papers, editorials, reviews etc.
 
 * [Utnyttja genvägarna till digital kompetens](https://www.raa.se/omvarld-och-insikt/utnyttja-genvagarna-till-digital-kompetens/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Juni 2022. 🇸🇪 In Swedish
 
+* [Sociala medier står för den största förändringen](https://magasink.se/2022/04/sociala-medier-star-for-den-storsta-forandringen/). Krönika i *Magasin K*. April 2022. 🇸🇪 In Swedish
+
 * [Dags för digitalt kompetenslyft](https://www.raa.se/omvarld-och-insikt/dags-for-digitalt-kompetenslyft/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Januari 2022. 🇸🇪 In Swedish
 
 * [Tre kännetecken för ”det nya normala” museibesöket](https://www.raa.se/omvarld-och-insikt/tre-kannetecken-for-det-nya-normala-museibesoket/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. November 2021. 🇸🇪 In Swedish
