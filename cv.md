@@ -41,7 +41,7 @@ Bachelor’s Degree in History, 180 credits, Stockholm University
 
 # Board Positions
 
-2012– [UtställningsEstetiskt Forum](https://utstallningskritik.se)
+2012–2022 [UtställningsEstetiskt Forum](https://utstallningskritik.se)
 
 2020–2021 [Svenska ICOM](http://icomsweden.se)
 

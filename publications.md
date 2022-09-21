@@ -26,23 +26,29 @@ Published papers, editorials, reviews etc.
 
 # Krönikor, recensioner, reportage / Columns, reviews, reports
 
-* [Utnyttja genvägarna till digital kompetens](https://www.raa.se/omvarld-och-insikt/utnyttja-genvagarna-till-digital-kompetens/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Juni 2022. 🇸🇪 In Swedish
+## 2022
+
+* [Utnyttja genvägarna till digital kompetens](https://www.raa.se/omvarld-och-insikt/utnyttja-genvagarna-till-digital-kompetens/). Krönika i *Omvärld och insikt*. Juni 2022. 🇸🇪 In Swedish
 
 * [Sociala medier står för den största förändringen](https://magasink.se/2022/04/sociala-medier-star-for-den-storsta-forandringen/). Krönika i *Magasin K*. April 2022. 🇸🇪 In Swedish
 
-* [Dags för digitalt kompetenslyft](https://www.raa.se/omvarld-och-insikt/dags-for-digitalt-kompetenslyft/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Januari 2022. 🇸🇪 In Swedish
+* [Dags för digitalt kompetenslyft](https://www.raa.se/omvarld-och-insikt/dags-for-digitalt-kompetenslyft/). Krönika i *Omvärld och insikt*. Januari 2022. 🇸🇪 In Swedish
 
-* [Tre kännetecken för ”det nya normala” museibesöket](https://www.raa.se/omvarld-och-insikt/tre-kannetecken-for-det-nya-normala-museibesoket/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. November 2021. 🇸🇪 In Swedish
+## 2021
 
-* [I startgroparna för massdigitisering](https://www.raa.se/omvarld-och-insikt/i-startgroparna-for-massdigitisering/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Oktober 2021. 🇸🇪 In Swedish
+* [Tre kännetecken för ”det nya normala” museibesöket](https://www.raa.se/omvarld-och-insikt/tre-kannetecken-for-det-nya-normala-museibesoket/). Krönika i *Omvärld och insikt*. November 2021. 🇸🇪 In Swedish
 
-* [Lång väg till ett digitaliserat kulturarv](https://www.raa.se/omvarld-och-insikt/lang-vag-till-ett-digitaliserat-kulturarv/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Juni 2021. 🇸🇪 In Swedish
+* [I startgroparna för massdigitisering](https://www.raa.se/omvarld-och-insikt/i-startgroparna-for-massdigitisering/). Krönika i *Omvärld och insikt*. Oktober 2021. 🇸🇪 In Swedish
 
-* [”Wikipedia en oöverträffad kanal för museets samlingar”](https://www.raa.se/omvarld-och-insikt/wikipedia-en-oovertraffad-kanal-for-museets-samlingar/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Maj 2021. 🇸🇪 In Swedish
+* [Lång väg till ett digitaliserat kulturarv](https://www.raa.se/omvarld-och-insikt/lang-vag-till-ett-digitaliserat-kulturarv/). Krönika i *Omvärld och insikt*. Juni 2021. 🇸🇪 In Swedish
 
-* [Vem gör de bästa digitala utställningarna?](https://www.raa.se/omvarld-och-insikt/vem-gor-de-basta-digitala-utstallningarna/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. April 2021. 🇸🇪 In Swedish
+* [”Wikipedia en oöverträffad kanal för museets samlingar”](https://www.raa.se/omvarld-och-insikt/wikipedia-en-oovertraffad-kanal-for-museets-samlingar/). Krönika i *Omvärld och insikt*. Maj 2021. 🇸🇪 In Swedish
 
-* [Ett år av coronadokumentation](https://www.raa.se/omvarld-och-insikt/kronika-ett-ar-av-coronadokumentation/). Krönika till Riksantikvarieämbetets museibevakning *Omvärld och insikt*. Mars 2021. 🇸🇪 In Swedish
+* [Vem gör de bästa digitala utställningarna?](https://www.raa.se/omvarld-och-insikt/vem-gor-de-basta-digitala-utstallningarna/). Krönika i *Omvärld och insikt*. April 2021. 🇸🇪 In Swedish
+
+* [Ett år av coronadokumentation](https://www.raa.se/omvarld-och-insikt/kronika-ett-ar-av-coronadokumentation/). Krönika i *Omvärld och insikt*. Mars 2021. 🇸🇪 In Swedish
+
+## 2010–2020
 
 * [På besök i framtiden](https://utstallningskritik.se/2015-3/pa-besok-i-framtiden/). Recension av antologin *Museerna och besökarna 2050*. Utställningsestetiskt Forum. 🇸🇪 In Swedish
 
