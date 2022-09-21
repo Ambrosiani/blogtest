@@ -6,7 +6,7 @@ permalink: /publications/
 
 Published papers, editorials, reviews etc.
 
-# Redaktörsuppdrag / Editorial duties
+## Redaktörsuppdrag / Editorial duties
 
 * [Utställningskritik #3 2022](https://utstallningskritik.se/2022-3/utstallningskritik-3-2022/). Redaktör för Utställningskritik. Maj–juni 2022. 🇸🇪 In Swedish
 
@@ -20,13 +20,13 @@ Published papers, editorials, reviews etc.
 
 * [Marie Skłodowska – Madame Curie](http://libris.kb.se/bib/12453547) (editor, together with Karl Berglund). Exhibition catalogue for the [exhibition of the same name](http://www.nobelmuseum.se/en/exhibitions/marie-sklodowska-madame-curie) at the Nobel Museum in 2011. Nobel Museum. 🇺🇸 In English
 
-# Längre artiklar / Longer articles
+## Längre artiklar / Longer articles
 
 * [Att skriva kulturhistoria: ett skolprojekt om Wikipedia](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040). Artikel i Fataburen 2017. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040) 🇸🇪 In Swedish
 
-# Krönikor, recensioner, reportage / Columns, reviews, reports
+## Krönikor, recensioner, reportage / Columns, reviews, reports
 
-## 2022
+### 2022
 
 * [Utnyttja genvägarna till digital kompetens](https://www.raa.se/omvarld-och-insikt/utnyttja-genvagarna-till-digital-kompetens/). Krönika i *Omvärld och insikt*. Juni 2022. 🇸🇪 In Swedish
 
@@ -34,7 +34,7 @@ Published papers, editorials, reviews etc.
 
 * [Dags för digitalt kompetenslyft](https://www.raa.se/omvarld-och-insikt/dags-for-digitalt-kompetenslyft/). Krönika i *Omvärld och insikt*. Januari 2022. 🇸🇪 In Swedish
 
-## 2021
+### 2021
 
 * [Tre kännetecken för ”det nya normala” museibesöket](https://www.raa.se/omvarld-och-insikt/tre-kannetecken-for-det-nya-normala-museibesoket/). Krönika i *Omvärld och insikt*. November 2021. 🇸🇪 In Swedish
 
@@ -48,7 +48,7 @@ Published papers, editorials, reviews etc.
 
 * [Ett år av coronadokumentation](https://www.raa.se/omvarld-och-insikt/kronika-ett-ar-av-coronadokumentation/). Krönika i *Omvärld och insikt*. Mars 2021. 🇸🇪 In Swedish
 
-## 2010–2020
+### 2010–2020
 
 * [På besök i framtiden](https://utstallningskritik.se/2015-3/pa-besok-i-framtiden/). Recension av antologin *Museerna och besökarna 2050*. Utställningsestetiskt Forum. 🇸🇪 In Swedish
 
@@ -58,7 +58,7 @@ Published papers, editorials, reviews etc.
 
 * [En utställning går under ytan](https://utstallningskritik.se/2010-5/en-utstallning-gar-under-ytan/). Recension av utställningen *[Ytspänning – kallt krig i Östersjön 1979–89](https://www.marinmuseum.se/utstallningar/ytspanning)* på Marinmuseum i Karlskrona. Utställningsestetiskt Forum, 2010. 🇸🇪 In Swedish
 
-# Akademiska uppsatser / Academic essays
+## Akademiska uppsatser / Academic essays
 
 * [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](http://su.diva-portal.org/smash/get/diva2:1516712/FULLTEXT01.pdf). Magisteruppsats/Master’s (1 year) Thesis in History, 2020. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-188765). 🇸🇪 In Swedish
 

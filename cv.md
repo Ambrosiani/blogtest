@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
 
-# Professional Experience
+## Professional Experience
 
 2022– Curator of Digital Collections (Intendent för digitala samlingar), [ArkDes](https://arkdes.se), Stockholm
 
@@ -28,7 +28,7 @@ Education Officer (Museilärare), Nobel Museum, Stockholm (part-time)
 2003–2004
 Museum Host (Museivärd), Nobel Museum, Stockholm (part-time)
 
-# Education
+## Education
 
 2020–2021
 Courses in Digital Humanities, 22.5 credits, [Linnæus University](https://lnu.se/en/research/searchresearch/digital-humanities/)
@@ -39,7 +39,7 @@ Master’s Degree in History (1 year), 60 credits, [Stockholm University](http:/
 2007–2010
 Bachelor’s Degree in History, 180 credits, Stockholm University
 
-# Board Positions
+## Board Positions
 
 2012–2022 [UtställningsEstetiskt Forum](https://utstallningskritik.se)
 
