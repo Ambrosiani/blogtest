@@ -8,6 +8,8 @@ Presentations at museum conferences and seminars
 
 # 2022
 
+* Upcoming: [Att starta om och starta nytt: Reflektioner över effektiv samlingsdigitalisering](https://www.raa.se/evenemang-och-upplevelser/vara-andra-seminarier-och-konferenser/samlingsforum/samlingsforum-2022/), Dec 2022. Panel at Samlingsforum, Härnösand. 🇸🇪 In Swedish.
+
 * [Om Nordiska museets bilduppladdningar och projektet Att skriva kulturhistoria på Wikipedia](https://folkochkultur.hypersay.events), Feb 2022. Panel at Folk och Kultur. 🇸🇪 In Swedish.
 
 # 2021
