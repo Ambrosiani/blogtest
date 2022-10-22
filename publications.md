@@ -28,6 +28,8 @@ Published papers, editorials, reviews etc.
 
 ### 2022
 
+* [Med publiken som medskapare](https://goteborgskonstmuseum.se/forskning/digitala-relationer/med-publiken-som-medskapare/). Intervju i Göteborgs konstmuseums projektblogg *Digitala relationer*. 🇸🇪 In Swedish
+
 * [Utnyttja genvägarna till digital kompetens](https://www.raa.se/omvarld-och-insikt/utnyttja-genvagarna-till-digital-kompetens/). Krönika i *Omvärld och insikt*. Juni 2022. 🇸🇪 In Swedish
 
 * [Sociala medier står för den största förändringen](https://magasink.se/2022/04/sociala-medier-star-for-den-storsta-forandringen/). Krönika i *Magasin K*. April 2022. 🇸🇪 In Swedish
