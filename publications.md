@@ -8,6 +8,8 @@ Published papers, editorials, reviews etc.
 
 ## Redaktörsuppdrag / Editorial duties
 
+* [Utställningskritik #4 2022](https://utstallningskritik.se/2022-4/utstallningskritik-4-2022/). Redaktör för Utställningskritik. Augusti–september 2022. 🇸🇪 In Swedish
+
 * [Utställningskritik #3 2022](https://utstallningskritik.se/2022-3/utstallningskritik-3-2022/). Redaktör för Utställningskritik. Maj–juni 2022. 🇸🇪 In Swedish
 
 * [Utställningskritik #2 2022](https://utstallningskritik.se/2022-2/utstallningskritik-2-2022/). Redaktör för Utställningskritik. April 2022. 🇸🇪 In Swedish
