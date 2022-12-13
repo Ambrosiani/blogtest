@@ -14,13 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aron Ambrosiani
-email: aron@ambrosiani.se
+author:
+  name: Aron Ambrosiani
+  email: aron@ambrosiani.se
 description: > # this means to ignore newlines until "baseurl:"
-  Producing Digital Media in Museums
+  Digital Transformation in Museums
+show_excerpts: false
+minima:
+  date_format: "%Y-%m-%d"
+  social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/aronambrosiani" }
+    - { platform: github,         user_url: "https://github.com/ambrosiani" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/aronambrosiani" }
+    - { platform: mastodon,       user_url: "https://glammr.us/@aronambrosiani" }
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://aron.ambrosiani.se" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AronAmbrosiani
-github_username:  ambrosiani
+url: "https://aron.ambrosiani.se" # the base hostname & protocol for your site, e.g. http://example.com
+
 mastodon_username: "@aronambrosiani@glammr.us"
 disqus:
     shortname: aronambrosiani
