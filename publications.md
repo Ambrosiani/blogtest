@@ -8,6 +8,8 @@ Published papers, editorials, reviews etc.
 
 ## Redaktörsuppdrag / Editorial duties
 
+* [Utställningskritik #5 2022](https://utstallningskritik.se/2022-5/utstallningskritik-5-2022/). Redaktör för Utställningskritik. Oktober–december 2022. 🇸🇪 In Swedish
+
 * [Utställningskritik #4 2022](https://utstallningskritik.se/2022-4/utstallningskritik-4-2022/). Redaktör för Utställningskritik. Augusti–september 2022. 🇸🇪 In Swedish
 
 * [Utställningskritik #3 2022](https://utstallningskritik.se/2022-3/utstallningskritik-3-2022/). Redaktör för Utställningskritik. Maj–juni 2022. 🇸🇪 In Swedish
@@ -23,6 +25,8 @@ Published papers, editorials, reviews etc.
 * [Marie Skłodowska – Madame Curie](http://libris.kb.se/bib/12453547) (editor, together with Karl Berglund). Exhibition catalogue for the [exhibition of the same name](http://www.nobelmuseum.se/en/exhibitions/marie-sklodowska-madame-curie) at the Nobel Museum in 2011. Nobel Museum. 🇺🇸 In English
 
 ## Längre artiklar / Longer articles
+
+* [Hur FAIR är svensk digitiserad kulturarvsdata idag?](https://doi.org/10.48202/24081), skriven tillsammans med Åsa M. Larsson. Artikel i Lychnos 2022 (dubbel anonym granskning). 🇸🇪 In Swedish
 
 * [Att skriva kulturhistoria: ett skolprojekt om Wikipedia](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040). Artikel i Fataburen 2017. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:nordiskamuseet:diva-2040) 🇸🇪 In Swedish
 
@@ -64,6 +68,6 @@ Published papers, editorials, reviews etc.
 
 ## Akademiska uppsatser / Academic essays
 
-* [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](http://su.diva-portal.org/smash/get/diva2:1516712/FULLTEXT01.pdf). Magisteruppsats/Master’s (1 year) Thesis in History, 2020. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-188765). 🇸🇪 In Swedish
+* [Hemmafruarna och högskolan: Studiemedelsreformen 1964 och könsrollsfrågorna](http://su.diva-portal.org/smash/get/diva2:1516712/FULLTEXT01.pdf) (2020). Magisteruppsats/Master’s (1 year) Thesis in History, 2020. [Available in DiVA](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-188765). 🇸🇪 In Swedish
 
-* [Rektor Lennmalms förslag: om 1918–1921 års diskussioner kring ett Nobelinstitut i rasbiologi vid Karolinska institutet](../assets/Rektor_Lennmalms_forslag.pdf). Kandidatuppsats i historia vid Stockholms universitet publicerad i serien [Nobel Museum Occasional Papers](https://web.archive.org/web/20170930112331/http://www.nobelmuseum.se/sv/forskning/publikationer). Bachelor’s Thesis in History. 🇸🇪 In Swedish
+* [Rektor Lennmalms förslag: om 1918–1921 års diskussioner kring ett Nobelinstitut i rasbiologi vid Karolinska institutet](../assets/Rektor_Lennmalms_forslag.pdf) (2010). Kandidatuppsats i historia vid Stockholms universitet publicerad i serien [Nobel Museum Occasional Papers](https://web.archive.org/web/20170930112331/http://www.nobelmuseum.se/sv/forskning/publikationer). Bachelor’s Thesis in History. 🇸🇪 In Swedish
